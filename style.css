@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#resultsContainer {
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
